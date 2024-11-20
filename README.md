@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, Next.js**
 
-- 💬 Ask me about **Vue and PHP**
-
 - 📫 How to reach me **clement0201@icloud.com**
 
 
